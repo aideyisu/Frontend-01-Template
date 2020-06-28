@@ -1,4 +1,4 @@
-// 基于示范代码修改
+// 基于示范代码,使用官网给出的API进行修改
 
 Deque<String> TestDeque = new LinkedList<String>();
 
